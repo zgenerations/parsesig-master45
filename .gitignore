@@ -1,0 +1,11 @@
+venv/[.]*
+settings.sh
+venv/*
+__pycache__/*
+example.py
+bot.py
+bot.py
+jsonfile.json
+.env
+*.session
+*.db
